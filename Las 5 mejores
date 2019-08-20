@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<meta charset = "utf8">
+<body>
+
+<title>Las 5 peliculas</title>
+
+<p> A continuacion vamos a ver las 5 películas que se deben ver seguidas en orden</p>
+<ol>
+
+<li> 1- Gran torino
+<img src = "https://pics.filmaffinity.com/gran_torino-278262332-large.jpg"></li>
+
+<li> 2- Malditos Bastardos
+<img src="hhttps://pics.filmaffinity.com/inglourious_basterds-976286054-large.jpg"></li>
+
+<li> 3- Forrest Gump
+<img src="http://es.web.img2.acsta.net/medias/nmedia/18/93/24/15/20244789.jpg"></li>
+
+<li> 4- Italian job
+<img src="https://pmctvline2.files.wordpress.com/2016/09/the-italian-job-nbc.jpg?w=620"></li>
+
+<li> 5- Match Point
+<img src="https://m.media-amazon.com/images/M/MV5BMzA1MDdmYTktYzAyZC00ODM3LTgxZGYtNmE3NTgxMTY2NTdiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY268_CR10,0,182,268_AL_.jpg"></li>
+
+</ol>
+</body>
+</html>
